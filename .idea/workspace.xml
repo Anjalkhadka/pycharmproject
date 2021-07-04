@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="445fe254-bdf9-4c29-a753-89334fa02061" name="Default Changelist" comment="integer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/R.py" beforeDir="false" afterPath="$PROJECT_DIR$/R.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S.py" beforeDir="false" afterPath="$PROJECT_DIR$/S.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +47,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.U">
+  <component name="RunManager" selected="Python.R">
     <configuration name="P" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycharm project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +111,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="T" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="S" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pycharm project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,7 +123,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/T.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/S.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.U" />
         <item itemvalue="Python.R" />
+        <item itemvalue="Python.U" />
+        <item itemvalue="Python.S" />
         <item itemvalue="Python.P" />
         <item itemvalue="Python.Q" />
-        <item itemvalue="Python.T" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +305,21 @@
       <option name="project" value="LOCAL" />
       <updated>1624294916656</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="integer">
+      <created>1624852322864</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1624852322865</updated>
+    </task>
+    <task id="LOCAL-00018" summary="integer">
+      <created>1624852352223</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1624852352224</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
